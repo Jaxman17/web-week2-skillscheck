@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    width: auto;
+
+}
+
+.container-1{
+    height: 10vh;
+    width: auto;
+    background-color: grey;
+}
+.CP {
+    position: relative;
+    font-size: 60px;
+    left: 10px;
+    top: 5px;
+    color: white;
+}
+
+nav{
+    font-size: 20px;
+    position: relative;
+    left: 1200px;
+    bottom: 25px;
+    display: inline;
+    flex-direction: row;
+    color: white;
+    
+}
+.border{
+    height: 30vh;
+    background-color: black;
+}
+.TMYK{
+    color: yellow;
+    text-align: center;
+    position: relative;
+    bottom: 180px;
+    font-size: 100px;
+    z-index: 3;
+}
+
+.sq1{
+    position: relative;
+ left: 200px;
+ bottom: 80px;
+    box-sizing: border-box;
+    border-radius: 5px;
+ height: 150px;
+ width: 150px;
+ background-color: cyan;
+}
